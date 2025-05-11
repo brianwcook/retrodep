@@ -5,7 +5,7 @@ require (
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/pkg/errors v0.8.1
-	golang.org/x/tools v0.0.0-20190325161752-5a8dccf5b48a
+	golang.org/x/tools v0.33.0
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	gopkg.in/yaml.v2 v2.2.2
 )
